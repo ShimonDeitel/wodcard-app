@@ -1,0 +1,44 @@
+{
+  "identifier": "storekit_config",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_applicationInternalID": "0",
+    "_developerTeamID": "W7Q885Q59C",
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [
+    {
+      "id": "20000000",
+      "localizations": [],
+      "name": "Wodcard Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "20000001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Benchmark-WOD trend charts and PR history",
+              "displayName": "Wodcard Pro Monthly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.wodcard.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Wodcard Pro Monthly",
+          "subscriptionGroupID": "20000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
